@@ -19255,7 +19255,7 @@
 	"version": "1.0.0",
 	"description": "Real-time bidirectional conversion between Markdown and mind map. Edit your markdown and see the mind map update live, or edit nodes in the mind map and watch your markdown sync instantly.",
 	"author": "ZYueqiang",
-  "repo": "ZYueqiang/obsidian-releases"
+  "repo": "ZYueqiang/obsidian-plufins"
 
 }
 
