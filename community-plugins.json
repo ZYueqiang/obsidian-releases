@@ -19248,5 +19248,16 @@
     "author": "Santi Younger",
     "description": "Calculate reading time estimates for selected text using your own reading speed in Words Per Minute.",
     "repo": "santiyounger/wpm-reading-time"
-  }
+  },
+  {
+	"id": "mind-map-node",
+	"name": "MindMap Node",
+	"version": "1.0.0",
+	"description": "Real-time bidirectional conversion between Markdown and mind map. Edit your markdown and see the mind map update live, or edit nodes in the mind map and watch your markdown sync instantly.",
+	"author": "ZYueqiang",
+  "repo": "ZYueqiang/obsidian-releases"
+
+}
+
+  
 ]
